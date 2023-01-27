@@ -1,0 +1,53 @@
+<! DOCTYPE html>
+<html>
+<head>
+	<title>deals page </title>
+</head>
+<body>
+<div heigth="300%" width="100%">
+<img src="dealsback.jpg" width="100%" alt="photo" />
+<p style="position: absolute;  top: 10px; width : 1000px; padding-left: 200px ; font-family:'Papyrus' ; text-align:right; font-size: 60px;">
+<b>
+<font color="white" size="20%">
+Deals
+<a href="">
+<font size="5%" color="white" style="font-family : 'callibri';">
+<b>
+&emsp; &emsp;&emsp;  &emsp; &emsp;&emsp; &emsp;  &emsp; &emsp; &emsp;&emsp; &emsp;  &emsp; 
+<a href="steak.html"><font color="white">HOME</a>
+&emsp;
+<a href="menu.html"><font color="white">MENU</a>
+&emsp;
+<a href="cartPage.html"><font color="white">CART</a>
+&emsp;
+<font color="white">DEALS
+</b>
+</font>
+</a>
+</font>
+</b>
+&emsp; &emsp; &emsp;&emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;
+<img src="deal2.png" width="30%" heigth="20%" align="right" alt="photo" " />
+<img src="deal1.jpg" width="30%" heigth="30%" align="left" alt="photo" />
+<p style="position: absolute; align="centre" top: 1px; width : 1000px; padding-center :300px ; font-family:'Papyrus' ">
+<font color="black" size="7" style="font-family:'Papyrus';">
+<b>
+CampFire Feast
+&emsp;  &emsp;&emsp; &emsp;
+<font size="6" color="white">
+We bring the wildest deals that 
+make your mouth crave for more
+</font>
+</b>
+</font>
+</br>
+</br>
+<img src="deal4.jpg" width="20%" heigth="30%" alt="photo"/>
+&emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp;  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp;
+<img src="deal3.jpg" width="40%" heigth="20%" alt="photo" align="center" />
+</div>
+<div>
+<img src="dealsback2.jpg" width="100%"  alt="photo" />
+</div>
+</body>
+</html>

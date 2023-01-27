@@ -1,0 +1,95 @@
+<!doctype html>
+<html>
+<head>
+	Wild SteakHouse Cart
+<style>
+      body {
+        background-image: url('cartpageback.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% ,90%;
+      }
+	.btn {
+    border-radius: 25px;
+  border: none;
+  background-color: #ADFF2F;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+.btn:hover {background: #2E8B57;}
+	.cart
+	{ background-color: pink;}
+</style>
+</head>
+
+<body>
+	<b>
+<font color="white" size="20%">
+Wild steakhouse Checkout
+</font>
+<a href="">
+&emsp;
+<font color="white">
+<a href="steak.html">HOME</a>
+&emsp;
+<a href="menu.html">MENU</a>
+&emsp;
+<a href="cartPage.html">CART</a>
+&emsp;
+<a href="deals.html">DEALS</a>
+</b>
+</font>
+	<div class="box">
+	<font color="white" size="5">
+	<h1> Wild SteakHouse Cart </h1>
+	</font>
+	</div>
+	<div id="cart">
+<font color="white" size="5">
+<table>
+<tr>
+<th> Product </th>
+<th> Amount  </th>
+<th>  Quantity </th>
+</tr>
+<tr>
+<td> Tarragon Steak </td>
+<td>  1200 Bucks </td> 
+<td> 01 </td>
+</tr>
+<tr>
+<td> Mushroom Steak &nbsp </td>
+<td>   1150 Bucks &nbsp </td>
+<td>   01 </td>
+</tr>
+<tr>
+<td> Mint Margarita &nbsp </td>
+<td>  350 Bucks &nbsp</td> 
+<td>  01 </td>
+</tr>
+<tr> 
+<td> </td>
+<td> </td>
+<td> </td>
+<th> Sub-Total:  2700 Bucks </th>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> <button class="btn check"><a href="checkout page.html">Proceed to Check Out</a></button> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> <input type="radio"> By Card  &nbsp
+ <input type="radio">Cash On Delivery </td>
+</tr>
+</table>
+</font>
+</div> 
+
+</body>
+</html>

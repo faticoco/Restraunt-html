@@ -1,0 +1,59 @@
+<! DOCTYPE html>
+<html>
+<head>
+	<title>menu page </title>
+</head>
+<body>
+<div heigth="300%" width="100%">
+<img src="back.jpg" width="100%" alt="photo" />
+<p style="position: absolute;  top: 10px; width : 1000px; padding-left: 200px ; font-family:'Papyrus' ; text-align:right; font-size: 60px;">
+<b>
+<font color="white" size="20%">
+Menu
+<a href="">
+<font size="5%" color="white" style="font-family : 'callibri';">
+<b>
+&emsp; &emsp;&emsp;  &emsp; &emsp;&emsp; &emsp;  &emsp; &emsp; &emsp;&emsp; &emsp;  &emsp; 
+<a href="steak.html"><font color="white">HOME</a>
+&emsp;
+<a href="menu.html"><font color="white">MENU</a>
+&emsp;
+<a href="cartPage.html"><font color="white">CART</a>
+&emsp;
+<a href="deals.html"><font color="white">DEALS</a>
+</b>
+</font>
+</font>
+</b>
+<p style="position: absolute;  top: 10px; width : 1000px; padding-left: 100px ; font-family:'Papyrus' ; text-align:left; font-size: 60px;">
+</br>
+</br>
+<img src="beef.jpg" width="20%" alt="photo" />
+</br>
+<font color="white" size="6">Beef steak
+</br>
+</br>
+<p style="position: absolute;  top: 10px; width : 1000px; padding-left: 500px ; font-family:'Papyrus' ; text-align:left; font-size: 60px;">
+</br>
+</br>
+<img src="chicken.jpg" width="20%" alt="photo" />
+</br>
+<font color="white" size="6">chicken steak
+</br>
+</br>
+<p style="position: absolute;  top: 10px; width : 1000px; padding-left: 900px ; font-family:'Papyrus' ; text-align:left; font-size: 60px;">
+</br>
+</br>
+<img src="vegetable steak.jpg" width="20%" alt="photo" />
+</br>
+<font color="white" size="6">vegetable steak
+</br>
+
+&emsp; &emsp;&emsp;  &emsp; &emsp; &emsp;&emsp;  &emsp;
+<img src="butter sauce steak.jpg" width="20%" alt="photo" />
+</br>
+<font color="white" size="6">
+&emsp; &emsp;&emsp;  &emsp; &emsp; &emsp;&emsp;  &emsp;
+butter sauce steak
+</body>
+</html>
